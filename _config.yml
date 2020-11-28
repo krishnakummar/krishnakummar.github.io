@@ -1,7 +1,7 @@
 # Site settings
-title: Rob Hinds
-twitter_username: rob_hinds
-name: Rob Hinds
+title: Krishna Kummar AS
+twitter_username: krishnakummar
+name: Krishna Kummar AS
 
 # Build settings
 markdown: kramdown
@@ -10,9 +10,9 @@ markdown: kramdown
 #Links that will appear in the navbar
 primarylinks:
  - title: Blog
-   url: https://automateddeveloper.blogspot.com/
+   url: https://dev.to/krishnakummar
  - title: GitHub
-   url: https://github.com/robhinds
+   url: https://github.com/krishnakummar
  - title: StackOverflow
    url: https://stackoverflow.com/users/258813/rhinds
  - title: DZone
