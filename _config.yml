@@ -22,14 +22,25 @@ primarylinks:
 #Any buzzword skills you want to include
 skills:
  - Golang 
+ - Python
  - Microservices  
  - API design
  - Product management  
+ - Building SaaS products
  - REST
+ - SQL 
+ - NoSQL
+ - Asynchronous Systems
+ - Event-driven Systems
+ - MongoDB
+ - RabbitMQ
+ - Kafka
  - Technical Architecture
  - Cloud Architecture
  - AWS
  - GCP
+ - Docker
+ - Kubernetes
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
